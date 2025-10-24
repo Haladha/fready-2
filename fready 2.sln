@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36310.24 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "fready 2", "fready 2\fready 2.csproj", "{4B117800-B692-490B-B59C-D88533376353}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4B117800-B692-490B-B59C-D88533376353}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4B117800-B692-490B-B59C-D88533376353}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4B117800-B692-490B-B59C-D88533376353}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4B117800-B692-490B-B59C-D88533376353}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {86AE48B2-8406-4816-BA67-A35658D967DF}
+	EndGlobalSection
+EndGlobal
