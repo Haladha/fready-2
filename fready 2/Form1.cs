@@ -21,10 +21,7 @@ namespace fready_2
         public Form1()
         {
             InitializeComponent();
-             xv = x.Text;
-             yv = y.Text;
-             wid = width.Text;
-            heig = heigth.Text;
+             
             
         }
         
@@ -48,6 +45,10 @@ namespace fready_2
 
         private void button1_Click(object sender, EventArgs e)
         {
+            xv = x.Text;
+            yv = y.Text;
+            wid = width.Text;
+            heig = heigth.Text; 
             Form2 form2 = new Form2();
             this.Hide();
             form2.Show();
